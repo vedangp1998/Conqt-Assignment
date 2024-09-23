@@ -17,7 +17,6 @@ const SubmitteData = () => {
           sx={{
             display: "flex",
             alignItem: "center",
-            justifyContent: "center",
             marginTop: "2rem",
           }}
         >
